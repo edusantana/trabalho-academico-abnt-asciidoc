@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'trabalho-academico-abnt-asciidoc'
-  s.version     = '0.1.3'
+  s.version     = '0.1.4'
   s.executables << 'trabalho-academico-abnt-asciidoc'
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -12,9 +12,8 @@ Gem::Specification.new do |s|
   s.email       = 'eduardo.ufpb@gmail.com'
   s.files       = ["lib/trabalho-academico-abnt-asciidoc.rb", "lib/trabalho-academico-abnt-asciidoc/translator.rb"]
   s.test_files = ["test/test_trabalho-academico-abnt-asciidoc.rb"]
-  s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.6.2}
   s.license       = 'MIT'
+  s.post_install_message = "Thanks for installing!"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
