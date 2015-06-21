@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'trabalho-academico-abnt-asciidoc'
-  s.version     = '0.1.1'
+  s.version     = '0.1.2'
   s.executables << 'trabalho-academico-abnt-asciidoc'
   s.date        = '2015-06-21'
   s.summary     = "Compila trabalhos acadêmicos escritos em Asciidoc com as normas da ABNT."
