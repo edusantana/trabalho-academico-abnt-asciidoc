@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'trabalho-academico-abnt-asciidoc'
+puts Hola.hi(ARGV[0])
