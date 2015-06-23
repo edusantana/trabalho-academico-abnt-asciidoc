@@ -1,5 +1,4 @@
-# trabalho-academico-abnt-asciidoc
-Compilador de trabalho acadêmico com as normas da abnt e elaborado em Asciidoc
+# Modelo de Trabalho Acadêmico
 
-Com este projeto será possível compilar trabalhos acadêmicos com as normas da abnt, como o [abntex2-modelo-trabalho-academico-asciidoc](https://github.com/edusantana/abntex2-modelo-trabalho-academico-asciidoc)
-
+Este projeto contém um modelo de trabalho acadêmico que você pode utilizar para
+escrever o seu trabalho.
