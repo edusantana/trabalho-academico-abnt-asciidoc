@@ -1,0 +1,15 @@
+== Introdução
+
+Este documento e seu código-fonte são exemplos de referência de uso da classe
+abntex2 e do pacote abntex2cite. O documento
+exemplifica a elaboração de trabalho acadêmico (tese, dissertação e outros do
+gênero) produzido conforme a ABNT NBR 14724:2011 _Informação e documentação
+- Trabalhos acadêmicos - Apresentação_.
+
+
+[env.citacao]
+--
+As citações com mais de três linhas devem aparecer no texto deste jeito.
+Eu adoro fazer citações, é fácil! Você está vendo um tempo de citação aqui. Você gostou também? Você não precisa se importar com formatação, é simples! Eu adorei! (ALEXANDRE, 2015)
+--
+
